@@ -1,0 +1,3 @@
+starling:
+  base.url: "https://api-sandbox.starlingbank.com/api/v2"
+  authorization.bearer: "Bearer ${AUTHORIZATION_BEARER: REPLACE}"
