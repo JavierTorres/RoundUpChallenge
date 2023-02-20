@@ -87,3 +87,9 @@ curl --location 'http://localhost:8080/round-up' \
     "maxTransactionTimestamp": "2023-02-19T23:42:40.592Z"
 }'
 ```
+
+## Future improvements
+
+- Replace Authorization Bearer pass as a enviorment variable with the appropiate logic to get it automatically.
+- Dockerizer in order to run as a container
+- Add observability.
